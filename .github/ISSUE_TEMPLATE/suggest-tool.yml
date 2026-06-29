@@ -1,0 +1,50 @@
+name: Suggest a Tool
+description: Suggest an OSINT tool to add to the list
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: e.g. Sherlock
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: GitHub URL or website
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Frameworks & All-in-One
+        - Username & People Search
+        - Email & Breach Data
+        - Domain, DNS & Infrastructure
+        - Internet Scan Engines & Attack Surface
+        - Social Media Intelligence (SOCMINT)
+        - Image & Reverse Image Search
+        - Geolocation & GEOINT
+        - Phone & Identity
+        - Google Dorking & Search Operators
+        - Transport Tracking
+        - Crypto / Blockchain OSINT
+        - Threat Intel & Malware OSINT
+        - Dark Web & Paste Sites
+        - Business, Records & Archives
+        - Datasets, Lists & APIs
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why should it be included?
+      placeholder: Brief description and why it's useful
+    validations:
+      required: true

@@ -1,0 +1,111 @@
+name: Update Star Counts
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+
+      - name: Refresh GitHub star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          import urllib.error
+          import urllib.request
+          from pathlib import Path
+
+          readme_path = Path("README.md")
+          lines = readme_path.read_text().splitlines()
+          token = os.environ["GITHUB_TOKEN"]
+          cache = {}
+          star_column = None
+          changes = 0
+
+          def format_stars(count):
+              return f"{round(count / 1000)}k" if count >= 1000 else str(count)
+
+          def get_stars(owner, repo):
+              key = f"{owner}/{repo}".lower()
+              if key in cache:
+                  return cache[key]
+              request = urllib.request.Request(
+                  f"https://api.github.com/repos/{owner}/{repo}",
+                  headers={
+                      "Accept": "application/vnd.github+json",
+                      "Authorization": f"Bearer {token}",
+                      "User-Agent": "awesome-list-star-updater",
+                  },
+              )
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      cache[key] = json.load(response)["stargazers_count"]
+              except (urllib.error.HTTPError, urllib.error.URLError) as error:
+                  print(f"Skipping {owner}/{repo}: {error}")
+                  cache[key] = None
+              return cache[key]
+
+          for index, line in enumerate(lines):
+              if not line.startswith("|"):
+                  star_column = None
+                  continue
+
+              cells = line.split("|")
+              if "Stars" in [cell.strip() for cell in cells]:
+                  star_column = next(
+                      position
+                      for position, cell in enumerate(cells)
+                      if cell.strip() == "Stars"
+                  )
+                  continue
+
+              if (
+                  star_column is None
+                  or star_column >= len(cells)
+                  or re.fullmatch(r"[-:\s]+", cells[star_column] or "")
+              ):
+                  continue
+
+              match = re.search(
+                  r"https://github\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9_.-]+)",
+                  line,
+              )
+              if not match:
+                  continue
+
+              count = get_stars(match.group(1), match.group(2).removesuffix(".git"))
+              if count is None:
+                  continue
+
+              updated = format_stars(count)
+              if cells[star_column].strip() != updated:
+                  cells[star_column] = f" {updated} "
+                  lines[index] = "|".join(cells)
+                  changes += 1
+
+          readme_path.write_text("\n".join(lines) + "\n")
+          print(f"Updated {changes} star counts across {len(cache)} repositories.")
+          PY
+
+      - name: Commit updates
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Star counts are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update GitHub star counts"
+          git push

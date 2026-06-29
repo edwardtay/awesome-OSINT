@@ -1,0 +1,29 @@
+name: Report Dead Link
+description: Report a tool that is dead, unmaintained, or has a broken link
+title: "[Dead] "
+labels: ["dead-link"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool name
+      placeholder: e.g. Datasploit
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      options:
+        - Repo archived or deleted
+        - No commits in 1+ year
+        - Broken URL (404)
+        - Project officially deprecated
+        - Service shut down
+    validations:
+      required: true
+  - type: input
+    id: alternative
+    attributes:
+      label: Suggested alternative (if any)
+      placeholder: e.g. SpiderFoot

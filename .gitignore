@@ -1,0 +1,12 @@
+node_modules/
+.wrangler/
+.dev.vars
+report.json
+*.log
+.env
+.env.*
+
+# Internal — not for the public repo
+growth/
+worker/
+scripts/
