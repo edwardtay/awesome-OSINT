@@ -10,15 +10,6 @@
 
 > ⚠️ = known maintenance concern; verify repository status before adoption.
 
-## 🧭 The OSINT Stack
-
-This list is the **catalog layer** of an OSINT ecosystem — it tells you *what exists*. Two downstream layers turn that catalog into action:
-
-- **🔎 Try them live → [pwnsy OSINT Search](https://search.pwnsy.com)** and the **[pwnsy Tool Finder](https://pwnsy.com)** — describe what you want to find in plain English and pwnsy picks the right tools from this catalog and runs them for you, no installation required.
-- **📓 Learn the methodology → [OSINT field notes](https://notebooks.lever-labs.com/osint/)** — the workflow, opsec, and legal/ethics guide that explains *how* to chain these tools into a sound investigation.
-
-The loop: **this list = what exists** → **the notebook = how to use it** → **pwnsy = run it without installing anything**. Browse a category below, read the field notes to understand the technique, then jump to pwnsy to execute.
-
 ## How to Choose
 
 | I need to... | Start here |
@@ -333,7 +324,7 @@ Curated tool catalogs, training resources and machine-readable datasets that fee
 
 ## Disclosure
 
-This list is the catalog layer of an OSINT ecosystem that also includes [pwnsy](https://pwnsy.com) (a hosted tool finder/runner) and the [OSINT field notes](https://notebooks.lever-labs.com/osint/) study guide, both maintained by the same author. Any referral or affiliate links are clearly relevant to OSINT work, and all tools are included based on merit — affiliation does not influence placement or rankings.
+Any referral or affiliate links are clearly relevant to OSINT work, and all tools are included based on merit — affiliation does not influence placement or rankings.
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
