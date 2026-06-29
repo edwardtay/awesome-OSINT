@@ -265,7 +265,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [YouTube DataViewer](https://citizenevidence.amnestyusa.org/) | — | — | Amnesty tool extracting a YouTube video's exact upload time and thumbnails for reverse search. |
 | [twscrape](https://github.com/vladkens/twscrape) | 2.5k | Python | X/Twitter scraper with account-pool auth: search, profiles, followers, tweets, retweeters. |
 | [Scweet](https://github.com/Altimis/Scweet) | 1.6k | Python | Scrapes tweets, profiles and followers from X without an API key, with proxy pooling. |
-| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | 126 | JavaScript | X/Twitter OSINT API and MCP server for tweet search, user timelines, followers, monitors and webhooks. |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | 126 | JavaScript | Commercial hosted X/Twitter OSINT API and MCP server for tweet search, user timelines, followers, monitors and webhooks. |
 | [Ultimate Social Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) | 3k | Python | Scrapes Facebook/Instagram profile posts, photos and friend/follower lists without the API. |
 | [linkedin2username](https://github.com/initstring/linkedin2username) | 1.8k | Python | Generates likely username/email permutations for all employees of a company from LinkedIn. |
 | [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) | 767 | Python | Maps an Instagram target's followers/followees into Neo4j to visualize their network. |
