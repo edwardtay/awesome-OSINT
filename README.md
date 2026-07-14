@@ -141,6 +141,7 @@ Tie an email to accounts, leaked credentials and breach corpora — registration
 | [Hudson Rock Cavalier](https://cavalier.hudsonrock.com) | — | Web | Free infostealer-infection lookup for emails, domains and usernames. |
 | [LeakPeek](https://leakpeek.com/) | — | Web | Hosted breach search over 8.2B+ records by email, username, password, domain or name. |
 | [Leak-Lookup](https://leak-lookup.com/) | — | Web | Breach search across thousands of dumps; email/username/IP/phone/domain fields. |
+| [CheckLeaked](https://checkleaked.cc/) | — | Web | Breach-data search engine over 15B+ records; checks emails, usernames, phones and passwords with source names, plus API and Telegram/Discord bots. |
 | [LeakRadar](https://leakradar.io/en) | — | Web | Stealer-log/combolist engine indexing 507B+ credentials; free search, paid reveal. |
 | [Whiteintel](https://whiteintel.io/) | — | Web | Dark-web/infostealer credential monitoring with free domain-compromise search. |
 | [ransomware.live](https://www.ransomware.live/) | 334 | Python | Ransomware gang tracker scraping data-leak sites; API and live victim map. |
@@ -291,6 +292,7 @@ Investigate Telegram, Discord, WhatsApp and fediverse accounts, channels and gro
 | [telegram-tracker](https://github.com/estebanpdl/telegram-tracker) | 381 | Python | Collects and analyzes messages/metadata from Telegram channels for disinformation research. |
 | [Masto](https://github.com/C3n7ral051nt4g3ncy/Masto) | 266 | Python | Gathers intelligence on Mastodon users/instances and finds all accounts a user holds. |
 | [WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT) | 724 | Python | Pulls WhatsApp profile pic, About/status, business verification and linked-device data from a number. |
+| [CheckLeaked WhatsApp](https://whatsapp.checkleaked.cc/) | — | Web | Looks up any WhatsApp number — current & historical profile pictures, About/bio text and Business-account detection; free web tool with optional API. |
 | [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) | 563 | — | Curated techniques for investigating Discord accounts, servers and bots (snowflake decoding, pivots). |
 | [doxcord](https://github.com/boringthegod/doxcord) | 81 | Python | Scans Discord servers for shared tracker links that leak each sender's identity. |
 | [tgcrawler](https://github.com/iggisv9t/tgcrawler) | 19 | Python | Crawls Telegram channels by following t.me links to map channel networks. |
