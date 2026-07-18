@@ -456,6 +456,8 @@ Track aircraft, ships and wireless networks in real time using ADS-B, AIS and wa
 
 Trace wallets, transactions and entity attribution across Bitcoin, Ethereum and beyond.
 
+> For the full picture (forensics platforms, sanctions screening, incident analysis, mixer tracing), see the dedicated **[awesome-crypto-investigation](https://github.com/edwardtay/awesome-crypto-investigation)** list.
+
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
 | [Etherscan](https://etherscan.io/) | — | — | Block explorer for Ethereum — inspect addresses, transactions, tokens and smart contracts. |
