@@ -75,7 +75,7 @@ Heavyweight platforms that orchestrate dozens of OSINT modules, transforms and l
 | [sn0int](https://github.com/kpcyrd/sn0int) | 2k | Rust | Semi-automatic OSINT framework and package manager for entity-graph recon. |
 | [OWASP Maryam](https://github.com/saeeddhqan/maryam) | 1k | Python | Modular open-source framework for web-based OSINT and data mining. |
 | [maltego-trx](https://github.com/MaltegoTech/maltego-trx) | 297 | Python | Official library for writing custom Maltego transforms and TDS servers. |
-| [gOSINT](https://github.com/Nhoya/gOSINT) | 671 | Go | Modular CLI OSINT framework for emails, PGP, Telegram and more. ⚠️ |
+| [gOSINT](https://github.com/Nhoya/gOSINT) | 672 | Go | Modular CLI OSINT framework for emails, PGP, Telegram and more. ⚠️ |
 | [Tsurugi Linux](https://tsurugi-linux.org/) | — | Distro | DFIR/OSINT-focused Linux distribution with a dedicated OSINT tool set. |
 | [CSI Linux](https://csilinux.com/) | — | Distro | Investigation-focused Linux platform bundling OSINT, DFIR and dark-web tooling. |
 
@@ -87,8 +87,8 @@ Pivot a username, real name or handle into a person's accounts and public-record
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Sherlock](https://github.com/sherlock-project/sherlock) | 86k | Python | Hunts a username across hundreds of social networks and websites to find a person's accounts. |
-| [Maigret](https://github.com/soxoj/maigret) | 35k | Python | Builds a dossier on a person by username from 3000+ sites, extracting profile details and relations. |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | 87k | Python | Hunts a username across hundreds of social networks and websites to find a person's accounts. |
+| [Maigret](https://github.com/soxoj/maigret) | 36k | Python | Builds a dossier on a person by username from 3000+ sites, extracting profile details and relations. |
 | [GHunt](https://github.com/mxrch/GHunt) | 19k | Python | Investigates Google accounts and objects — emails, profiles, reviews, photos — from a Gmail address or ID. |
 | [blackbird](https://github.com/p1ngul1n0/blackbird) | 7k | Python | Fast OSINT username and email search across hundreds of sites with WhatsMyName metadata. |
 | [socialscan](https://github.com/iojw/socialscan) | 2k | Python | Checks email and username availability/registration on online platforms with accurate signup-flow queries. |
@@ -105,8 +105,8 @@ Pivot a username, real name or handle into a person's accounts and public-record
 | [CrossLinked](https://github.com/m8sec/CrossLinked) | 2k | Python | Enumerates valid LinkedIn employee names via search-engine scraping. |
 | [socid-extractor](https://github.com/soxoj/socid-extractor) | 1k | Python | Extracts account IDs/metadata from profile pages across 130+ sites. |
 | [GitFive](https://github.com/mxrch/GitFive) | 1k | Python | Tracks down GitHub users; pivots email to account and dumps SSH keys. |
-| [Profil3r](https://github.com/Greyjedix/Profil3r) | 657 | Python | Finds a person's accounts and emails, with data-leak alerting. |
-| [Marple](https://github.com/soxoj/marple) | 311 | Python | Collects profile links by username through 10+ search engines. |
+| [Profil3r](https://github.com/Greyjedix/Profil3r) | 658 | Python | Finds a person's accounts and emails, with data-leak alerting. |
+| [Marple](https://github.com/soxoj/marple) | 314 | Python | Collects profile links by username through 10+ search engines. |
 | [WebMii](https://webmii.com) | — | Web | People-search engine aggregating public web profiles by name with "PeopleRank". |
 | [That'sThem](https://thatsthem.com) | — | Web | Free people search with reverse email/phone/address lookups. |
 | [Spokeo](https://www.spokeo.com) | — | Web | People search aggregating 12B+ records by name, phone, email, or address. |
@@ -133,9 +133,9 @@ Tie an email to accounts, leaked credentials and breach corpora — registration
 | [Hunter.io](https://hunter.io/) | — | — | Finds and verifies professional email addresses for a domain and reveals common address patterns. |
 | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | 9k | Rust | Verifies whether an email address exists without sending mail (SMTP probe). |
 | [WhatBreach](https://github.com/Ekultek/WhatBreach) | 2k | Python | Finds breaches, databases and pastes tied to an email address. |
-| [EmailHarvester](https://github.com/maldevel/EmailHarvester) | 959 | Python | Retrieves a domain's email addresses from multiple search engines. |
-| [MailFinder](https://github.com/mishakorzik/MailFinder) | 570 | Python | OSINT tool to find an email address from a first and last name. |
-| [EmailFinder](https://github.com/Josue87/EmailFinder) | 423 | Python | Searches a domain's emails through search engines. ⚠️ |
+| [EmailHarvester](https://github.com/maldevel/EmailHarvester) | 962 | Python | Retrieves a domain's email addresses from multiple search engines. |
+| [MailFinder](https://github.com/mishakorzik/MailFinder) | 572 | Python | OSINT tool to find an email address from a first and last name. |
+| [EmailFinder](https://github.com/Josue87/EmailFinder) | 425 | Python | Searches a domain's emails through search engines. ⚠️ |
 | [XposedOrNot](https://xposedornot.com) | — | Web | Free data-breach search engine and open API for emails and domains. |
 | [BreachDirectory](https://breachdirectory.org) | — | Web | Searches public breaches by email/username; free tier plus API. |
 | [Hudson Rock Cavalier](https://cavalier.hudsonrock.com) | — | Web | Free infostealer-infection lookup for emails, domains and usernames. |
@@ -175,17 +175,17 @@ Footprint a target's domains, subdomains, DNS, certificates and tech stack from 
 | [massdns](https://github.com/blechschmidt/massdns) | 4k | C | High-performance stub DNS resolver for bulk lookups (millions of names/sec). |
 | [puredns](https://github.com/d3mondev/puredns) | 2k | Go | Fast domain resolver and subdomain bruteforcer that filters wildcards and poisoned entries. |
 | [Findomain](https://github.com/Findomain/Findomain) | 4k | Rust | Cross-platform subdomain enumerator pulling from cert transparency and dozens of sources. |
-| [chaos-client](https://github.com/projectdiscovery/chaos-client) | 870 | Go | Client for ProjectDiscovery's Chaos dataset of internet-wide DNS/subdomain data. |
+| [chaos-client](https://github.com/projectdiscovery/chaos-client) | 871 | Go | Client for ProjectDiscovery's Chaos dataset of internet-wide DNS/subdomain data. |
 | [asnmap](https://github.com/projectdiscovery/asnmap) | 1k | Go | Maps an organization's network ranges/CIDRs from ASN, org name, IP, or domain. |
 | [mapcidr](https://github.com/projectdiscovery/mapcidr) | 1k | Go | CIDR/IP range utility for slicing, expanding, and aggregating network ranges. |
-| [cero](https://github.com/glebarez/cero) | 689 | Go | Scrapes domain names directly from TLS certificates of live hosts at scale. |
+| [cero](https://github.com/glebarez/cero) | 692 | Go | Scrapes domain names directly from TLS certificates of live hosts at scale. |
 | [CTFR](https://github.com/UnaPibaGeek/ctfr) | 2k | Python | Enumerates HTTPS subdomains by abusing Certificate Transparency logs (no brute-force). |
 | [hakrevdns](https://github.com/hakluke/hakrevdns) | 2k | Go | Small, fast tool for performing reverse DNS (PTR) lookups en masse. |
 | [dnsgen](https://github.com/AlephNullSK/dnsgen) | 1k | Python | Generates intelligent subdomain name permutations from a seed wordlist. |
 | [dnsrecon](https://github.com/darkoperator/dnsrecon) | 3k | Python | Versatile DNS recon: zone transfers, brute-force, SRV/PTR enumeration, cache snooping. |
 | [Fierce](https://github.com/mschwager/fierce) | 2k | Python | DNS reconnaissance scanner for locating non-contiguous IP space and hostnames. |
 | [Gobuster](https://github.com/OJ/gobuster) | 14k | Go | Brute-force tool with DNS subdomain, vhost, and directory/file enumeration modes. |
-| [alterx](https://github.com/projectdiscovery/alterx) | 980 | Go | Pattern-based subdomain wordlist/permutation generator for active enumeration. |
+| [alterx](https://github.com/projectdiscovery/alterx) | 982 | Go | Pattern-based subdomain wordlist/permutation generator for active enumeration. |
 | [Hurricane Electric BGP Toolkit](https://bgp.he.net) | — | Web | Web portal for ASN, BGP prefix, peering, and reverse-IP intelligence lookups. |
 | [RapidDNS](https://rapiddns.io) | — | Web | Free DNS query service for reverse-IP, subdomain, and shared-host lookups. |
 
@@ -232,10 +232,10 @@ Find exposed buckets, cloud assets, internet-connected devices, and a site's tec
 | [cloud_enum](https://github.com/initstring/cloud_enum) | 2k | Python | Multi-cloud OSINT tool enumerating public AWS, Azure, and GCP resources. |
 | [CloudBrute](https://github.com/0xsha/CloudBrute) | 1k | Go | Finds a company's files/apps/infrastructure across the major cloud providers. |
 | [cloudlist](https://github.com/projectdiscovery/cloudlist) | 1k | Go | Lists assets/hostnames from multiple cloud providers using their APIs. |
-| [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) | 567 | Python | Enumerates Google Storage buckets and checks for privilege-escalation paths. |
+| [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) | 568 | Python | Enumerates Google Storage buckets and checks for privilege-escalation paths. |
 | [GrayhatWarfare](https://buckets.grayhatwarfare.com) | — | Web | Searchable index of public S3/Azure/GCP buckets and exposed files. |
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | 8k | Python | Multi-cloud security auditing tool that surfaces misconfigured/exposed assets. |
-| [Kamerka](https://github.com/woj-ciech/Kamerka-GUI) | 857 | Python | Maps exposed IoT devices, webcams, and ICS on a map using Shodan/Censys/BinaryEdge. |
+| [Kamerka](https://github.com/woj-ciech/Kamerka-GUI) | 860 | Python | Maps exposed IoT devices, webcams, and ICS on a map using Shodan/Censys/BinaryEdge. |
 | [Insecam](http://www.insecam.org) | — | Web | Directory of internet-accessible, unsecured IP cameras worldwide. |
 | [webanalyze](https://github.com/rverton/webanalyze) | 1k | Go | Go port of Wappalyzer for fast mass web technology fingerprinting. |
 | [WhatWeb](https://github.com/urbanadventurer/WhatWeb) | 7k | Ruby | Web scanner identifying CMS, frameworks, analytics IDs, and 1800+ technology plugins. |
@@ -253,8 +253,8 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) | 23k | Python | API/CLI/web tool to find and analyze a person's profiles across 1000+ social media sites. |
-| [Osintgram](https://github.com/Datalux/Osintgram) | 13k | Python | Interactive Instagram OSINT tool to pull followers, emails, phones, tagged photos and locations. |
+| [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) | 24k | Python | API/CLI/web tool to find and analyze a person's profiles across 1000+ social media sites. |
+| [Osintgram](https://github.com/Datalux/Osintgram) | 14k | Python | Interactive Instagram OSINT tool to pull followers, emails, phones, tagged photos and locations. |
 | [Instaloader](https://instaloader.github.io/) | 9k | Python | Downloads Instagram posts, stories, profile metadata and comments for archival and analysis. |
 | [snscrape](https://github.com/JustAnotherArchivist/snscrape) | 5k | Python | Scrapes social networks (X/Twitter, Telegram, Reddit, etc.) without API keys for posts and profiles. |
 | [toutatis](https://github.com/megadose/toutatis) | 4k | Python | Extracts obfuscated emails, phone numbers and account info from Instagram profiles. |
@@ -267,10 +267,10 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [Scweet](https://github.com/Altimis/Scweet) | 2k | Python | Scrapes tweets, profiles and followers from X without an API key, with proxy pooling. |
 | [Ultimate Social Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) | 3k | Python | Scrapes Facebook/Instagram profile posts, photos and friend/follower lists without the API. |
 | [linkedin2username](https://github.com/initstring/linkedin2username) | 2k | Python | Generates likely username/email permutations for all employees of a company from LinkedIn. |
-| [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) | 802 | Python | Maps an Instagram target's followers/followees into Neo4j to visualize their network. |
+| [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) | 805 | Python | Maps an Instagram target's followers/followees into Neo4j to visualize their network. |
 | [youtube-metadata](https://github.com/mattwright324/youtube-metadata) | 497 | JavaScript | Gathers metadata for a YouTube video/playlist/channel with thumbnail reverse-search. |
 | [fb_friend_list_scraper](https://github.com/n0kovo/fb_friend_list_scraper) | 325 | Python | Scrapes names and usernames from large Facebook friend lists without hitting rate limits. |
-| [SnapIntel](https://github.com/Kr0wZ/SnapIntel) | 324 | Python | Investigates Snapchat users: stories, spotlights, lenses, bitmojis and upload heatmaps. |
+| [SnapIntel](https://github.com/Kr0wZ/SnapIntel) | 325 | Python | Investigates Snapchat users: stories, spotlights, lenses, bitmojis and upload heatmaps. |
 | [youtube-geofind](https://github.com/mattwright324/youtube-geofind) | 155 | JavaScript | Finds geotagged YouTube videos by channel, topic or location radius, with CSV export. |
 | [tik-spyder](https://github.com/estebanpdl/tik-spyder) | 98 | Python | CLI that collects TikTok posts, videos and metadata via Google search for investigations. |
 | [reddit-user-analyser](https://github.com/atomiks/reddit-user-analyser) | 12 | JavaScript | Analyzes a Reddit user's activity: top subreddits, posting times and word breakdowns. |
@@ -287,12 +287,12 @@ Investigate Telegram, Discord, WhatsApp and fediverse accounts, channels and gro
 | [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | 12k | C# | Exports any Discord channel, DM, group or server history to HTML/JSON/CSV for offline review. |
 | [telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) | 2k | Python | Checks whether phone numbers are tied to Telegram accounts, returning username and IDs (Bellingcat). |
 | [Telerecon](https://github.com/sockysec/Telerecon) | 1k | Python | Reconnaissance framework to scrape Telegram channels/groups, map forwards and profile users. |
-| [tgscan](https://github.com/tgscan-dev/tgscan) | 714 | Java | Search engine for discovering Telegram channels, groups and chat history by keyword. |
-| [telegram-tracker](https://github.com/estebanpdl/telegram-tracker) | 381 | Python | Collects and analyzes messages/metadata from Telegram channels for disinformation research. |
+| [tgscan](https://github.com/tgscan-dev/tgscan) | 715 | Java | Search engine for discovering Telegram channels, groups and chat history by keyword. |
+| [telegram-tracker](https://github.com/estebanpdl/telegram-tracker) | 382 | Python | Collects and analyzes messages/metadata from Telegram channels for disinformation research. |
 | [Masto](https://github.com/C3n7ral051nt4g3ncy/Masto) | 266 | Python | Gathers intelligence on Mastodon users/instances and finds all accounts a user holds. |
-| [WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT) | 724 | Python | Pulls WhatsApp profile pic, About/status, business verification and linked-device data from a number. |
-| [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) | 563 | — | Curated techniques for investigating Discord accounts, servers and bots (snowflake decoding, pivots). |
-| [doxcord](https://github.com/boringthegod/doxcord) | 81 | Python | Scans Discord servers for shared tracker links that leak each sender's identity. |
+| [WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT) | 741 | Python | Pulls WhatsApp profile pic, About/status, business verification and linked-device data from a number. |
+| [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) | 570 | — | Curated techniques for investigating Discord accounts, servers and bots (snowflake decoding, pivots). |
+| [doxcord](https://github.com/boringthegod/doxcord) | 82 | Python | Scans Discord servers for shared tracker links that leak each sender's identity. |
 | [tgcrawler](https://github.com/iggisv9t/tgcrawler) | 19 | Python | Crawls Telegram channels by following t.me links to map channel networks. |
 | [blueskynet](https://github.com/jakecreps/blueskynet) | 15 | JavaScript | Web app to search, analyze and CSV-export results from the Bluesky API for OSINT. |
 
@@ -343,10 +343,10 @@ Detect manipulation, deepfakes and AI-generated media, and verify provenance.
 | [MeVer Verification Assistant](https://mever.iti.gr/forensics/) | — | Web | CERTH service bundling tampering-detection, EXIF, GPS and reverse-search for media verification. |
 | [Deepware Scanner](https://scanner.deepware.ai/) | — | Web | Free online scanner analyzing videos for facial-manipulation deepfakes with confidence scores. |
 | [Content Credentials Verify](https://contentcredentials.org/verify) | — | Web | Official CAI tool to inspect C2PA provenance manifests embedded in images, video and files. |
-| [c2patool](https://github.com/contentauth/c2pa-rs) | 367 | Rust | Official C2PA SDK and CLI to read, verify and write content-provenance manifests. |
+| [c2patool](https://github.com/contentauth/c2pa-rs) | 370 | Rust | Official C2PA SDK and CLI to read, verify and write content-provenance manifests. |
 | [Illuminarty](https://illuminarty.ai/) | — | Web | Detector estimating whether an image is AI-generated, which model made it, and which regions. |
 | [ExifCleaner](https://github.com/szTheory/exifcleaner) | 3k | TypeScript | Cross-platform GUI (ExifTool-based) to view and strip metadata from images, video and PDFs. |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 178k | Python | Feature-rich CLI downloader for thousands of sites, used to pull source video and frames. |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 179k | Python | Feature-rich CLI downloader for thousands of sites, used to pull source video and frames. |
 | [AI or Not](https://www.aiornot.com/) | — | Web | Service classifying images, audio and video as AI-generated or real, including deepfakes. |
 | [Reality Defender](https://www.realitydefender.com/) | — | Web | Multimodal deepfake-detection platform (web app + API/SDK) for image, video, audio and text. |
 | [Metadata2Go](https://www.metadata2go.com/) | — | Web | Free browser tool to view, edit and remove EXIF/metadata from images, video, audio and PDFs. |
@@ -365,7 +365,7 @@ Pin down where an image or video was captured using maps, street-level imagery, 
 | [GeoSpy](https://geospy.ai/) | — | — | AI geolocation engine that predicts where a photo was taken from visual scene features. |
 | [GeoHints](https://geohints.com/) | — | — | Reference of country-specific visual clues — bollards, signs, plates — to narrow image geolocation. |
 | [Google Earth](https://earth.google.com/) | — | — | Satellite/3D imagery with historical timeline for matching terrain, buildings and confirming a location. |
-| [Bellingcat ShadowFinder](https://github.com/bellingcat/ShadowFinder) | 591 | Python | Estimates possible locations of a photo from a known shadow length and timestamp. |
+| [Bellingcat ShadowFinder](https://github.com/bellingcat/ShadowFinder) | 594 | Python | Estimates possible locations of a photo from a known shadow length and timestamp. |
 | [Wikimapia](https://wikimapia.org/) | — | — | Crowdsourced map with labelled places and points of interest useful for matching landmarks. |
 | [Copernicus Browser](https://browser.dataspace.copernicus.eu/) | — | Web | Free browser for Sentinel and Landsat satellite imagery with time-lapse and band analysis. |
 | [NASA Worldview](https://worldview.earthdata.nasa.gov/) | — | Web | Browse 1,200+ global daily satellite imagery layers, many within ~3 hours of observation. |
@@ -437,9 +437,9 @@ Track aircraft, ships and wireless networks in real time using ADS-B, AIS and wa
 | [OpenSky Network](https://opensky-network.org/) | — | — | Research-grade ADS-B flight dataset and API for historical and live aircraft position queries. |
 | [WiGLE](https://wigle.net/) | — | — | Crowdsourced database of wireless networks and cell towers mapped by location for wardriving OSINT. |
 | [dump1090](https://github.com/flightaware/dump1090) | 1k | C | Real-time ADS-B Mode S decoder for RTL-SDR with a live aircraft web map. |
-| [readsb](https://github.com/wiedehopf/readsb) | 631 | C | High-performance ADS-B decoder and feeder powering many receiver builds. |
+| [readsb](https://github.com/wiedehopf/readsb) | 634 | C | High-performance ADS-B decoder and feeder powering many receiver builds. |
 | [tar1090](https://github.com/wiedehopf/tar1090) | 2k | JavaScript | Web interface for live visualization of ADS-B aircraft tracks. |
-| [AIS-catcher](https://github.com/jvde-github/AIS-catcher) | 758 | C++ | Multi-SDR AIS receiver decoding ship NMEA with a built-in map server. |
+| [AIS-catcher](https://github.com/jvde-github/AIS-catcher) | 759 | C++ | Multi-SDR AIS receiver decoding ship NMEA with a built-in map server. |
 | [OpenRailwayMap](https://www.openrailwaymap.org/) | — | Web | OSM-based worldwide map of railway tracks, signals and infrastructure. |
 | [Gqrx](https://github.com/csete/gqrx) | 4k | C++ | SDR receiver with spectrum/waterfall for RTL-SDR, Airspy and HackRF. |
 | [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus) | 6k | C++ | Cross-platform modern SDR receiver supporting most popular radios. |
@@ -480,7 +480,7 @@ Trace wallets, transactions and entity attribution across Bitcoin, Ethereum and 
 | [Cielo](https://cielo.finance) | — | Web | Smart-money wallet tracking across 30+ chains with real-time Telegram/Discord alerts. |
 | [Bitquery](https://bitquery.io) | — | API | GraphQL/streaming API indexing 40+ chains with Coinpath money-flow tracing. |
 | [WalletLabels](https://www.walletlabels.xyz) | — | Web | Labels 200M+ crypto addresses (exchanges, entities, contracts) via web app and API. |
-| [Orbit](https://github.com/s0md3v/Orbit) | 614 | Python | Recursively crawls a wallet's history and graphs sources, sinks and suspicious links. ⚠️ |
+| [Orbit](https://github.com/s0md3v/Orbit) | 615 | Python | Recursively crawls a wallet's history and graphs sources, sinks and suspicious links. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -592,7 +592,7 @@ Curated tool catalogs, training resources and machine-readable datasets that fee
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [Awesome OSINT](https://github.com/jivoi/awesome-osint) | 27k | The canonical community-maintained curated list of OSINT tools and resources by category. |
+| [Awesome OSINT](https://github.com/jivoi/awesome-osint) | 28k | The canonical community-maintained curated list of OSINT tools and resources by category. |
 | [Trace Labs OSINT VM](https://github.com/tracelabs/tlosint-live) | 824 | Kali-based live OSINT operating system preloaded with investigation tools for missing-persons CTFs. |
 | [Bellingcat Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) | — | Bellingcat's regularly updated, categorized toolkit of investigation tools and guides. |
 | [osint-tool-database](https://github.com/tomvaillant/osint-tool-database) | — | Machine-readable structured dataset of OSINT tools for powering apps and finders. |
