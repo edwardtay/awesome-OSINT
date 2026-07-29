@@ -211,6 +211,7 @@ Search engines for the whole internet — query exposed hosts, devices, banners 
 | [httpx](https://github.com/projectdiscovery/httpx) | 10k | Go | Fast multi-purpose HTTP probing toolkit for fingerprinting live web servers at scale. |
 | [ZMap](https://github.com/zmap/zmap) | 6k | C | Fast single-packet network scanner designed for internet-wide research surveys. |
 | [uncover](https://github.com/projectdiscovery/uncover) | 3k | Go | Queries Shodan, Censys, FOFA, Hunter and Quake from one CLI to find exposed hosts. |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) |  |  | Open source (GPL-3.0) autonomous AI penetration testing platform for web, API, AD and Kubernetes. |
 | [Smap](https://github.com/s0md3v/Smap) | 3k | Go | Drop-in Nmap replacement returning port/CVE data passively via Shodan's free API. |
 | [nrich](https://gitlab.com/shodan-public/nrich) | 1.4k | Rust | Enriches a list of IPs with open ports and known CVEs using Shodan's InternetDB. |
 | [IVRE](https://github.com/ivre/ivre) | 4k | Python | Self-hosted network recon framework/database for building your own Shodan-like map. |
