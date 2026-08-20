@@ -188,6 +188,7 @@ Footprint a target's domains, subdomains, DNS, certificates and tech stack from 
 | [alterx](https://github.com/projectdiscovery/alterx) | 991 | Go | Pattern-based subdomain wordlist/permutation generator for active enumeration. |
 | [Hurricane Electric BGP Toolkit](https://bgp.he.net) | — | Web | Web portal for ASN, BGP prefix, peering, and reverse-IP intelligence lookups. |
 | [RapidDNS](https://rapiddns.io) | — | Web | Free DNS query service for reverse-IP, subdomain, and shared-host lookups. |
+| [MyIPScan](https://myipscan.net/tools/) | — | Web | Browser-based lookups for IP, ASN, WHOIS/RDAP, reverse DNS, DNS records and provider IP ranges, plus DNS/WebRTC/IPv6 leak tests. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
