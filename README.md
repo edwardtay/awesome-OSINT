@@ -350,6 +350,7 @@ Detect manipulation, deepfakes and AI-generated media, and verify provenance.
 | [AI or Not](https://www.aiornot.com/) | — | Web | Service classifying images, audio and video as AI-generated or real, including deepfakes. |
 | [Reality Defender](https://www.realitydefender.com/) | — | Web | Multimodal deepfake-detection platform (web app + API/SDK) for image, video, audio and text. |
 | [Metadata2Go](https://www.metadata2go.com/) | — | Web | Free browser tool to view, edit and remove EXIF/metadata from images, video, audio and PDFs. |
+| [MetadataRemover.ai](https://metadataremover.ai/) | — | Web | Browser-local toolkit to inspect, remove, edit and verify supported image, document, video and audio metadata without uploads or an account. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 ## 🗺️ Geolocation & GEOINT
