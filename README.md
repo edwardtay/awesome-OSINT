@@ -341,6 +341,7 @@ Detect manipulation, deepfakes and AI-generated media, and verify provenance.
 | [FaceForensics++](https://github.com/ondyari/FaceForensics) | 3k | Python | Benchmark dataset and detection code for face-manipulation methods. ⚠️ |
 | [InVID-WeVerify Plugin](https://weverify.eu/verification-plugin/) | — | Web | Browser-extension verification toolbox: video keyframes, magnifier, metadata, reverse search. |
 | [MeVer Verification Assistant](https://mever.iti.gr/forensics/) | — | Web | CERTH service bundling tampering-detection, EXIF, GPS and reverse-search for media verification. |
+| [isGenAI](https://isgenai.com/ai-image-detector) | — | Web | Commercial hosted service with free, no-account image checks: reads AI labels and saved generation settings, including supported A1111 and ComfyUI prompts. Files are uploaded for analysis. |
 | [Deepware Scanner](https://scanner.deepware.ai/) | — | Web | Free online scanner analyzing videos for facial-manipulation deepfakes with confidence scores. |
 | [Content Credentials Verify](https://contentcredentials.org/verify) | — | Web | Official CAI tool to inspect C2PA provenance manifests embedded in images, video and files. |
 | [c2patool](https://github.com/contentauth/c2pa-rs) | 415 | Rust | Official C2PA SDK and CLI to read, verify and write content-provenance manifests. |
