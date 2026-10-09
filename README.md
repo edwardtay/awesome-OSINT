@@ -274,6 +274,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [youtube-geofind](https://github.com/mattwright324/youtube-geofind) | 159 | JavaScript | Finds geotagged YouTube videos by channel, topic or location radius, with CSV export. |
 | [tik-spyder](https://github.com/estebanpdl/tik-spyder) | 102 | Python | CLI that collects TikTok posts, videos and metadata via Google search for investigations. |
 | [reddit-user-analyser](https://github.com/atomiks/reddit-user-analyser) | 12 | JavaScript | Analyzes a Reddit user's activity: top subreddits, posting times and word breakdowns. |
+| [ig-harvester](https://github.com/anurag-panda-dev/ig-harvester) | 0 | JavaScript | Playwright/CDP Instagram OSINT harvester: posts, comment threads, follower/following lists, full-res image downloads, JSON/CSV/SQLite export and a live local analytics dashboard. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
