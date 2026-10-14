@@ -352,6 +352,7 @@ Detect manipulation, deepfakes and AI-generated media, and verify provenance.
 | [AI or Not](https://www.aiornot.com/) | n/a | Web | Service classifying images, audio and video as AI-generated or real, including deepfakes. |
 | [Reality Defender](https://www.realitydefender.com/) | n/a | Web | Multimodal deepfake-detection platform (web app + API/SDK) for image, video, audio and text. |
 | [Metadata2Go](https://www.metadata2go.com/) | n/a | Web | Free browser tool to view, edit and remove EXIF/metadata from images, video, audio and PDFs. |
+| [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) | 2 | TypeScript | Local-first desktop app (macOS, Windows, Linux) to inspect EXIF and map GPS-tagged photos; no image uploads, no telemetry. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 ## 🗺️ Geolocation & GEOINT
