@@ -516,6 +516,7 @@ Reputation, sandboxing and IOC sources to triage files, URLs, domains and IPs ag
 | [Cortex](https://github.com/TheHive-Project/Cortex) | 2k | Scala | Engine for analyzing security observables (IPs, emails, URLs, files, hashes) at scale. |
 | [Validin](https://www.validin.com/) | n/a | Web | Pivots across historical DNS, SSL certs and header/favicon hashes to map malicious infra. |
 | [JARM](https://github.com/salesforce/jarm) | 1k | Python | Active TLS server fingerprinting to group and identify servers (including C2). ⚠️ |
+| [ICHI — Internet Cyber Health Index](https://ichi.global/) | n/a | Web | Free, source-transparent daily barometer of global internet security health. Aggregates signals from CISA KEV, Shodan, Censys, abuse.ch, AlienVault OTX and others into one scored index with a public JSON/RSS API. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
