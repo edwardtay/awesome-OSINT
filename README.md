@@ -565,6 +565,7 @@ Corporate registries, leak archives, financial filings and web time machines for
 | [Rusprofile](https://www.rusprofile.ru/) | n/a | Web | Free profiles of Russian legal entities (EGRUL data, directors, finances, court cases). |
 | [Zauba Corp](https://www.zaubacorp.com/) | n/a | Web | India company research platform with directors, charges and MCA filings. |
 | [Tianyancha](https://www.tianyancha.com/) | n/a | Web | Large Chinese company-information platform (ownership, shareholders, litigation). |
+| [ChineseCheck](https://chinesecheck.com/) | n/a | Web | English-language lookup of Chinese company registration records with a free preview and paid credit reports (commercial). |
 | [ACRA BizFile](https://www.bizfile.gov.sg/) | n/a | Web | Singapore's official business registry portal for company searches and profiles. |
 | [Equasis](https://www.equasis.org/) | n/a | Web | Free maritime database of vessel ownership, managers and safety/inspection history. |
 | [CourtListener](https://www.courtlistener.com/) | n/a | Web | Free archive of millions of US court opinions plus PACER (RECAP) federal dockets. |
