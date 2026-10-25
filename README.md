@@ -148,6 +148,7 @@ Tie an email to accounts, leaked credentials and breach corpora, from registrati
 | [ransomware.live](https://www.ransomware.live/) | 334 | Python | Ransomware gang tracker scraping data-leak sites; API and live victim map. |
 | [RansomLook](https://www.ransomlook.io/) | 629 | Python | Open-source aggregator tracking 580+ ransomware groups and their leak-site posts. |
 | [DDoSecrets](https://ddosecrets.org/) | n/a | Web | Nonprofit archive publishing/searching 100M+ hacked and leaked documents. |
+| [Website Contact Extractor](https://apify.com/pennydata/website-contact-extractor) | n/a | n/a | Commercial hosted Apify actor (pay per result, about $0.001 per site with a result): takes a list of websites and returns public emails, phones, social links and contact-page/contact-form URLs per site; public pages only, no breach or personal-data lookups. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
