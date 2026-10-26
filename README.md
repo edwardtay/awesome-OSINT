@@ -276,6 +276,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [youtube-geofind](https://github.com/mattwright324/youtube-geofind) | 159 | JavaScript | Finds geotagged YouTube videos by channel, topic or location radius, with CSV export. |
 | [tik-spyder](https://github.com/estebanpdl/tik-spyder) | 102 | Python | CLI that collects TikTok posts, videos and metadata via Google search for investigations. |
 | [reddit-user-analyser](https://github.com/atomiks/reddit-user-analyser) | 13 | JavaScript | Analyzes a Reddit user's activity: top subreddits, posting times and word breakdowns. ⚠️ |
+| [Bright Data](https://get.brightdata.com/tsf6w05nyw3n) | n/a | n/a | Commercial scraper APIs and ready-made datasets for public profiles and posts on the major social platforms. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -596,6 +597,8 @@ Curated tool catalogs, training resources and machine-readable datasets that fee
 | [Awesome OSINT](https://github.com/jivoi/awesome-osint) | 30k | The canonical community-maintained curated list of OSINT tools and resources by category. |
 | [Trace Labs OSINT VM](https://github.com/tracelabs/tlosint-live) | 834 | Kali-based live OSINT operating system preloaded with investigation tools for missing-persons CTFs. ⚠️ |
 | [Bellingcat Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) | n/a | Bellingcat's regularly updated, categorized toolkit of investigation tools and guides. |
+| [Apify](https://www.apify.com/?fpr=3nr7v8) | n/a | Marketplace of ready-made scrapers (Actors) for social platforms, maps, and search results, with an API and scheduling. |
+| [DataForSEO](https://dataforseo.com/?aff=255379) | n/a | Pay-as-you-go APIs for Google SERPs, business listings, and backlink data. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -609,12 +612,6 @@ Curated tool catalogs, training resources and machine-readable datasets that fee
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
 ---
-
-## Disclosure
-
-Any referral or affiliate links are clearly relevant to OSINT work, and all tools are included based on merit. Affiliation does not influence placement or rankings.
-
-<p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
 ## 🔗 Related Awesome Lists
 
@@ -640,3 +637,5 @@ Use OSINT responsibly: respect platform terms, privacy law and local regulations
 
 
 To the extent possible under law, [Edward Tay](https://github.com/edwardtay) has waived all copyright and related or neighboring rights to this work.
+
+<sub>Some links are referral links.</sub>
