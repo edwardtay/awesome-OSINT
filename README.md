@@ -377,6 +377,7 @@ Pin down where an image or video was captured using maps, street-level imagery, 
 | [OpenAerialMap](https://openaerialmap.org/) | n/a | Web | Open repository of openly-licensed drone and aerial imagery searchable by location. |
 | [Maxar Open Data](https://vantor.com/company/open-data-program) | n/a | Web | Free near-real-time high-resolution satellite imagery for major disaster events. |
 | [Picarta](https://www.picarta.ai/) | n/a | Web | AI photo geolocation predicting where an image was taken from visual clues, no EXIF needed. |
+| [Oceanir](https://oceanir.ai/) | n/a | Web | Commercial photo geolocation from visual clues without EXIF; free option with limits. Estimates require verification. |
 | [Shadowmap](https://shadowmap.org/) | n/a | Web | Global 3D sun and shadow simulation for any date/time, for shadow-based chronolocation. |
 | [PeakVisor](https://peakvisor.com/) | n/a | Web | 3D mountain and peak identification with AR overlays for terrain-based geolocation. |
 | [Instant Street View](https://www.instantstreetview.com/) | n/a | Web | Jump directly to any address in Google Street View, including historical imagery. |
