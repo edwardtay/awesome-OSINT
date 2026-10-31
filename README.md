@@ -273,6 +273,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [youtube-metadata](https://github.com/mattwright324/youtube-metadata) | 517 | JavaScript | Gathers metadata for a YouTube video/playlist/channel with thumbnail reverse-search. |
 | [fb_friend_list_scraper](https://github.com/n0kovo/fb_friend_list_scraper) | 337 | Python | Scrapes names and usernames from large Facebook friend lists without hitting rate limits. ⚠️ |
 | [SnapIntel](https://github.com/Kr0wZ/SnapIntel) | 358 | Python | Investigates Snapchat users: stories, spotlights, lenses, bitmojis and upload heatmaps. |
+| [SnapDataHub](https://snapdatahub.com/) | n/a | n/a | Web tool for public Snapchat profile analytics: Spotlight performance and engagement metrics. |
 | [youtube-geofind](https://github.com/mattwright324/youtube-geofind) | 159 | JavaScript | Finds geotagged YouTube videos by channel, topic or location radius, with CSV export. |
 | [tik-spyder](https://github.com/estebanpdl/tik-spyder) | 102 | Python | CLI that collects TikTok posts, videos and metadata via Google search for investigations. |
 | [reddit-user-analyser](https://github.com/atomiks/reddit-user-analyser) | 13 | JavaScript | Analyzes a Reddit user's activity: top subreddits, posting times and word breakdowns. ⚠️ |
