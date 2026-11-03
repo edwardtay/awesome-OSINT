@@ -258,6 +258,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) | 24k | Python | API/CLI/web tool to find and analyze a person's profiles across 1000+ social media sites. |
 | [Osintgram](https://github.com/Datalux/Osintgram) | 15k | Python | Interactive Instagram OSINT tool to pull followers, emails, phones, tagged photos and locations. |
 | [Instaloader](https://instaloader.github.io/) | 9k | Python | Downloads Instagram posts, stories, profile metadata and comments for archival and analysis. |
+| [iStoryTracker](https://istorytracker.com/) | n/a | Web | Anonymous Instagram Story viewer for public accounts (no Instagram login); optional paid Story tracking and archive. |
 | [snscrape](https://github.com/JustAnotherArchivist/snscrape) | 5k | Python | Scrapes social networks (X/Twitter, Telegram, Reddit, etc.) without API keys for posts and profiles. ⚠️ |
 | [toutatis](https://github.com/megadose/toutatis) | 4k | Python | Extracts obfuscated emails, phone numbers and account info from Instagram profiles. ⚠️ |
 | [Telepathy](https://github.com/prose-intelligence-ltd/Telepathy-Community) | 1k | Python | Telegram OSINT toolkit for archiving channels and analysing members, messages and forwards. |
