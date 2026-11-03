@@ -277,6 +277,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [tik-spyder](https://github.com/estebanpdl/tik-spyder) | 102 | Python | CLI that collects TikTok posts, videos and metadata via Google search for investigations. |
 | [reddit-user-analyser](https://github.com/atomiks/reddit-user-analyser) | 13 | JavaScript | Analyzes a Reddit user's activity: top subreddits, posting times and word breakdowns. ⚠️ |
 | [Bright Data](https://get.brightdata.com/tsf6w05nyw3n) | n/a | n/a | Commercial scraper APIs and ready-made datasets for public profiles and posts on the major social platforms. |
+| [LurkAPI](https://lurkapi.com) | n/a | n/a | Commercial API returning public posts, profiles, comments and transcripts from 16 platforms plus Meta, Google, LinkedIn and TikTok ad libraries as JSON; free web tools at 5 lookups a day. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
