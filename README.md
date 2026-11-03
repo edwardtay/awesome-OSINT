@@ -147,6 +147,7 @@ Tie an email to accounts, leaked credentials and breach corpora, from registrati
 | [Whiteintel](https://whiteintel.io/) | n/a | Web | Dark-web/infostealer credential monitoring with free domain-compromise search. |
 | [ransomware.live](https://www.ransomware.live/) | 334 | Python | Ransomware gang tracker scraping data-leak sites; API and live victim map. |
 | [RansomLook](https://www.ransomlook.io/) | 629 | Python | Open-source aggregator tracking 580+ ransomware groups and their leak-site posts. |
+| [Have I Been Ransomed?](https://haveibeenransom.com/) | n/a | Web | Searches ransomware leak sites, infostealer logs and data breaches by email, phone or domain; free search, paid API. |
 | [DDoSecrets](https://ddosecrets.org/) | n/a | Web | Nonprofit archive publishing/searching 100M+ hacked and leaked documents. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
