@@ -328,6 +328,7 @@ Find where a photo came from, who's in it, and whether it's been manipulated: re
 | [ascii2d](https://ascii2d.net/) | n/a | Web | Japanese reverse image search matching by color and feature hashes. |
 | [IQDB](https://iqdb.org/) | n/a | Web | Multi-service image search across booru sites (Danbooru, Konachan, Gelbooru, Sankaku). |
 | [ImgOps](https://imgops.com/) | n/a | Web | Meta-tool routing an image to many reverse-search, EXIF, and editing utilities. |
+| [Reverse Image Search Anywhere](https://reverseimage.app/) | n/a | Web / browser extension | Free tool that opens an image in Google Lens, Yandex, Bing Visual Search and TinEye; its browser extension can search a selected region of a page when an image URL isn't available. |
 | [Photo Sherlock](https://photosherlock.com/) | n/a | App | Android/iOS app for reverse image search to check if a photo is fake or stolen. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
