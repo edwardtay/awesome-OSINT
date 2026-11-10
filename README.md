@@ -484,6 +484,7 @@ Trace wallets, transactions and entity attribution across Bitcoin, Ethereum and 
 | [Bitquery](https://bitquery.io) | n/a | API | GraphQL/streaming API indexing 40+ chains with Coinpath money-flow tracing. |
 | [WalletLabels](https://www.walletlabels.xyz) | n/a | Web | Labels 200M+ crypto addresses (exchanges, entities, contracts) via web app and API. |
 | [Orbit](https://github.com/s0md3v/Orbit) | 627 | Python | Recursively crawls a wallet's history and graphs sources, sinks and suspicious links. ⚠️ |
+| [FreezeRadar](https://freezeradar.com/) | n/a | Web | Free USDT/USDC wallet blacklist and sanctions checker: issuer freeze status, sanctions exposure and live freeze/release activity (free hosted service; founder submission). |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
