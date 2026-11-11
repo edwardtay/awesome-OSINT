@@ -343,6 +343,7 @@ Detect manipulation, deepfakes and AI-generated media, and verify provenance.
 | [DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) | 1k | Python | Benchmark unifying datasets and 36 state-of-the-art deepfake-detection models. ⚠️ |
 | [FaceForensics++](https://github.com/ondyari/FaceForensics) | 3k | Python | Benchmark dataset and detection code for face-manipulation methods. ⚠️ |
 | [InVID-WeVerify Plugin](https://weverify.eu/verification-plugin/) | n/a | Web | Browser-extension verification toolbox: video keyframes, magnifier, metadata, reverse search. |
+| [Video Reverse Search](https://videoreversesearch.com/) | n/a | Web | Hosted service that samples frames from a video upload or supported link and searches for earlier matching uploads. |
 | [MeVer Verification Assistant](https://mever.iti.gr/forensics/) | n/a | Web | CERTH service bundling tampering-detection, EXIF, GPS and reverse-search for media verification. |
 | [Deepware Scanner](https://scanner.deepware.ai/) | n/a | Web | Free online scanner analyzing videos for facial-manipulation deepfakes with confidence scores. |
 | [Content Credentials Verify](https://contentcredentials.org/verify) | n/a | Web | Official CAI tool to inspect C2PA provenance manifests embedded in images, video and files. |
