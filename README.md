@@ -14,6 +14,8 @@
 
 ## How to Choose
 
+**New:** [Which OSINT tool should I use?](WHICH-OSINT-TOOL.md) picks a tool by what you have (username, email, phone, domain, photo, wallet) and shows which popular tools are still maintained.
+
 | I need to... | Start here |
 |---|---|
 | Find someone by username | [Username & People Search](#️-username--people-search) |
@@ -94,7 +96,7 @@ Pivot a username, real name or handle into a person's accounts and public-record
 | [GHunt](https://github.com/mxrch/GHunt) | 20k | Python | Investigates Google accounts and objects, emails, profiles, reviews, photos, from a Gmail address or ID. |
 | [blackbird](https://github.com/antoniaci/blackbird) | 10k | Python | Fast OSINT username and email search across hundreds of sites with WhatsMyName metadata. ⚠️ |
 | [socialscan](https://github.com/iojw/socialscan) | 2k | Python | Checks email and username availability/registration on online platforms with accurate signup-flow queries. |
-| [WhatsMyName](https://whatsmyname.app/) | 2k | Python | Community-driven username enumeration project and web app with a large, validated site list. |
+| [WhatsMyName](https://whatsmyname.app/) | 3k | Python | Community-driven username enumeration dataset and web app (691 sites). Archived 9 November 2026; the data is frozen. ⚠️ |
 | [Creepy](https://github.com/ilektrojohn/creepy) | 2k | Python | Geolocation OSINT tool that gathers location data from a target's social-media posts and image metadata. ⚠️ |
 | [FastPeopleSearch](https://www.fastpeoplesearch.com/) | n/a | n/a | Free US people-search returning addresses, phones, relatives and associates from public records by name. |
 | [TruePeopleSearch](https://www.truepeoplesearch.com/) | n/a | n/a | Free US public-records lookup for current/past addresses, phone numbers and known relatives. |
