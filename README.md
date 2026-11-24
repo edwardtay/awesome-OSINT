@@ -279,6 +279,7 @@ Scrape, archive and analyze posts, profiles and channels across the major social
 | [tik-spyder](https://github.com/estebanpdl/tik-spyder) | 103 | Python | CLI that collects TikTok posts, videos and metadata via Google search for investigations. |
 | [reddit-user-analyser](https://github.com/atomiks/reddit-user-analyser) | 13 | JavaScript | Analyzes a Reddit user's activity: top subreddits, posting times and word breakdowns. ⚠️ |
 | [Bright Data](https://get.brightdata.com/tsf6w05nyw3n) | n/a | n/a | Commercial scraper APIs and ready-made datasets for public profiles and posts on the major social platforms. |
+| [InfoMiner](https://www.largitdata.com/en/infominer-social-listening/) | n/a | n/a | Commercial Chinese-language social listening and risk-intelligence platform from Taiwan (since 2014): monitors news, social, forum and video sources with sentiment, disinformation and coordinated-account analysis. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
