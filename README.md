@@ -556,6 +556,7 @@ Corporate registries, leak archives, financial filings and web time machines for
 | [ICIJ Offshore Leaks](https://offshoreleaks.icij.org/) | n/a | n/a | Searchable database from the Panama/Paradise/Pandora Papers linking offshore entities and officers. |
 | [SEC EDGAR](https://www.sec.gov/edgar) | n/a | n/a | US Securities & Exchange Commission filings, company financials, ownership and disclosure records. |
 | [UK Companies House](https://find-and-update.company-information.service.gov.uk/) | n/a | n/a | Free official UK registry of companies, officers, filings and ownership. |
+| [Kausate](https://kausate.com/) | n/a | Web | Real-time API for official company-register data with global coverage, including reports, shareholders/UBO, financials and original filings with a timestamp and hash. |
 | [GLEIF LEI Search](https://search.gleif.org/) | n/a | n/a | Global Legal Entity Identifier index for verifying and linking legal entities worldwide. |
 | [LittleSis](https://littlesis.org/) | n/a | n/a | Free database mapping connections between powerful people, companies and institutions. |
 | [Wayback Machine](https://web.archive.org/) | n/a | n/a | Internet Archive's web time machine for viewing and citing historical snapshots of web pages. |
